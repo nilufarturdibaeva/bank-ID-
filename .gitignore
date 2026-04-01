@@ -23,6 +23,8 @@ __pycache__/
 venv/
 ENV/
 .env
+data
+config.py
 
 # --- Tizim fayllari ---
 .DS_Store
